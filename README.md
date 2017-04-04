@@ -2,4 +2,4 @@
 
 Ein Haus im Maßstab 1:50
 
-![](https://raw.githubusercontent.com/fablab-neckar-alb/inding/siam-hausmodell/master/preview.jpg)
+![](https://raw.githubusercontent.com/inding/siam-hausmodell/master/preview.jpg)
