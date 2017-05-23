@@ -1,1176 +1,11682 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   id="svg332"
-   version="1.1"
-   viewBox="0 0 1024 1024"
-   height="1024"
-   width="1024">
-  <metadata
-     id="metadata338">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs336" />
-  <desc
-     id="desc2">'haus.blend', Plane.025, (Blender 2.78 (sub 0))</desc>
-  <polygon
-     id="polygon4"
-     points="517.493,1013.301 517.493,976.667 517.493,976.667 517.493,1013.301 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon6"
-     points="221.536,358.067 221.536,388.596 221.536,388.596 221.536,358.067 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon8"
-     points="638.635,30.528 747.076,30.528 747.076,30.528 638.635,30.528 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon10"
-     points="517.493,732.438 528.337,732.438 528.337,732.438 517.493,732.438 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon12"
-     points="575.777,388.596 575.777,358.067 575.777,358.067 575.777,388.596 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon14"
-     points="747.076,311.392 638.635,311.392 638.635,311.392 747.076,311.392 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon16"
-     points="517.493,732.438 367.483,732.438 367.483,732.438 517.493,732.438 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon18"
-     points="505.291,358.067 505.291,388.596 505.290,388.596 505.290,358.067 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon20"
-     points="786.838,311.392 786.838,274.758 786.838,274.758 786.838,311.392 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon22"
-     points="517.493,1013.301 367.483,1013.301 367.483,1013.301 517.493,1013.301 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon24"
-     points="494.446,388.596 494.446,358.067 494.446,358.067 494.446,388.596 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon26"
-     points="786.838,311.392 747.076,311.392 747.076,311.392 786.838,311.392 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon28"
-     points="774.137,976.667 774.137,842.341 774.137,842.341 774.137,976.667 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon30"
-     points="423.960,358.067 423.960,388.596 423.960,388.596 423.960,358.067 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon32"
-     points="804.911,274.758 804.911,140.431 804.911,140.431 804.911,274.758 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon34"
-     points="217.473,976.667 217.473,842.341 217.473,842.341 217.473,976.667 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon36"
-     points="778.200,388.596 778.200,358.067 778.200,358.067 778.200,388.596 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon38"
-     points="804.911,140.431 804.911,30.528 804.911,30.528 804.911,140.431 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon40"
-     points="644.008,976.667 644.008,842.341 644.008,842.341 644.008,976.667 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon42"
-     points="720.365,358.067 720.365,388.596 720.365,388.596 720.365,358.067 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon44"
-     points="786.838,30.528 804.911,30.528 804.911,30.528 786.838,30.528 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon46"
-     points="571.714,976.667 571.714,842.341 571.714,842.341 571.714,976.667 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon48"
-     points="1013.156,669.460 1024.000,669.460 1024.000,669.460 1013.156,669.460 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon50"
-     points="786.838,274.758 804.911,274.758 804.911,274.758 786.838,274.758 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon52"
-     points="528.337,976.667 528.337,842.341 528.337,842.341 528.337,976.667 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon54"
-     points="18.073,53.187 162.661,53.187 162.661,53.187 18.073,53.187 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon56"
-     points="230.173,0.000 288.009,0.000 288.009,0.000 230.173,0.000 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon58"
-     points="517.493,976.667 517.493,842.341 517.493,842.341 517.493,976.667 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon60"
-     points="18.073,993.471 162.661,993.471 162.661,993.471 18.073,993.471 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon62"
-     points="360.303,0.000 439.826,0.000 439.826,0.000 360.303,0.000 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon64"
-     points="644.008,976.667 571.714,976.667 571.714,976.667 644.008,976.667 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon66"
-     points="18.073,617.358 18.073,805.414 18.073,805.414 18.073,617.358 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon68"
-     points="450.670,0.000 501.276,0.000 501.276,0.000 450.670,0.000 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon70"
-     points="774.137,842.341 774.137,732.437 774.137,732.437 774.137,842.341 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon72"
-     points="18.073,241.244 18.073,266.888 18.073,266.888 18.073,241.244 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon74"
-     points="573.570,0.000 638.635,0.000 638.635,0.000 573.570,0.000 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon76"
-     points="217.473,842.341 217.473,732.438 217.473,732.438 217.473,842.341 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon78"
-     points="0.000,53.187 0.000,241.244 0.000,241.244 0.000,53.187 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon80"
-     points="747.076,0.000 786.838,0.000 786.838,0.000 747.076,0.000 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon82"
-     points="644.008,842.341 644.008,732.437 644.008,732.437 644.008,842.341 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon84"
-     points="0.000,805.414 0.000,993.471 0.000,993.471 0.000,805.414 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon86"
-     points="638.635,30.528 638.635,0.000 638.635,0.000 638.635,30.528 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon88"
-     points="203.463,388.596 203.463,632.826 203.463,632.826 203.463,388.596 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon90"
-     points="571.714,842.341 571.714,732.438 571.714,732.438 571.714,842.341 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon92"
-     points="0.000,429.300 0.000,468.377 0.000,468.377 0.000,429.300 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon94"
-     points="573.570,0.000 573.570,30.528 573.570,30.528 573.570,0.000 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon96"
-     points="575.777,669.460 720.365,669.460 720.365,669.460 575.777,669.460 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon98"
-     points="528.337,842.341 517.493,842.341 517.493,842.341 528.337,842.341 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon100"
-     points="18.073,617.358 0.000,617.358 0.000,617.358 18.073,617.358 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon102"
-     points="439.826,30.528 439.826,0.000 439.826,0.000 439.826,30.528 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon104"
-     points="575.777,388.596 575.777,632.826 575.777,632.826 575.777,388.596 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon106"
-     points="367.483,1013.301 217.473,1013.301 217.473,1013.301 367.483,1013.301 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon108"
-     points="0.000,429.300 18.073,429.300 18.073,429.300 0.000,429.300 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon110"
-     points="360.303,0.000 360.303,30.528 360.303,30.528 360.303,0.000 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon112"
-     points="505.291,669.460 575.777,669.460 575.777,669.460 505.290,669.460 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon114"
-     points="745.219,701.909 774.137,701.909 774.137,701.909 745.219,701.909 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon116"
-     points="18.073,993.471 0.000,993.471 0.000,993.471 18.073,993.471 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon118"
-     points="786.838,30.528 786.838,0.000 786.838,0.000 786.838,30.528 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon120"
-     points="720.365,388.596 720.365,632.826 720.365,632.826 720.365,388.596 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon122"
-     points="644.008,701.909 672.925,701.909 672.925,701.909 644.008,701.909 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon124"
-     points="0.000,805.414 18.073,805.414 18.073,805.414 0.000,805.414 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon126"
-     points="747.076,0.000 747.076,30.528 747.076,30.528 747.076,0.000 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon128"
-     points="1024.000,632.826 1013.156,632.826 1013.156,632.826 1024.000,632.826 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon130"
-     points="528.337,701.909 571.714,701.909 571.714,701.909 528.337,701.909 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon132"
-     points="18.073,241.244 0.000,241.244 0.000,241.244 18.073,241.244 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon134"
-     points="501.276,30.528 501.276,0.000 501.276,0.000 501.276,30.528 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon136"
-     points="505.291,388.596 494.446,388.596 494.446,388.596 505.290,388.596 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon138"
-     points="367.483,701.909 217.473,701.909 217.473,701.909 367.483,701.909 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon140"
-     points="0.000,53.187 18.073,53.187 18.073,53.187 0.000,53.187 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon142"
-     points="450.670,0.000 450.670,30.528 450.670,30.528 450.670,0.000 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon144"
-     points="423.960,669.460 494.446,669.460 494.446,669.460 423.960,669.460 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon146"
-     points="672.925,732.437 672.925,701.909 672.925,701.909 672.925,732.437 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon148"
-     points="184.350,993.471 184.350,805.414 184.350,805.414 184.350,993.471 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon150"
-     points="288.009,30.528 288.009,0.000 288.009,0.000 288.009,30.528 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon152"
-     points="221.536,669.460 279.372,669.460 279.372,669.460 221.536,669.460 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon154"
-     points="644.008,701.909 644.008,732.437 644.008,732.437 644.008,701.909 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon156"
-     points="184.350,241.244 184.350,53.187 184.350,53.187 184.350,241.244 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon158"
-     points="230.173,0.000 230.173,30.528 230.173,30.528 230.173,0.000 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon160"
-     points="423.960,388.596 423.960,632.826 423.960,632.826 423.960,388.596 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon162"
-     points="774.137,732.437 774.137,701.909 774.137,701.909 774.137,732.437 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon164"
-     points="184.350,429.300 184.350,285.205 184.350,285.205 184.350,429.300 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon166"
-     points="221.536,388.596 203.463,388.596 203.463,388.596 221.536,388.596 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon168"
-     points="745.219,701.909 745.219,732.437 745.219,732.437 745.219,701.909 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon170"
-     points="184.350,805.414 184.350,617.358 184.350,617.358 184.350,805.414 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon172"
-     points="279.372,388.596 279.372,632.826 279.372,632.826 279.372,388.596 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon174"
-     points="571.714,732.438 571.714,701.909 571.714,701.909 571.714,732.438 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon176"
-     points="162.661,22.658 184.350,22.658 184.350,22.658 162.661,22.658 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon178"
-     points="279.372,669.460 423.960,669.460 423.960,669.460 279.372,669.460 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon180"
-     points="528.337,701.909 528.337,732.438 528.337,732.438 528.337,701.909 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon182"
-     points="184.350,22.658 184.350,53.187 184.350,53.187 184.350,22.658 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon184"
-     points="720.365,669.460 778.200,669.460 778.200,669.460 720.365,669.460 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon186"
-     points="367.483,732.438 367.483,701.909 367.483,701.909 367.483,732.438 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon188"
-     points="162.661,53.187 162.661,22.658 162.661,22.658 162.661,53.187 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon190"
-     points="796.274,388.596 778.200,388.596 778.200,388.596 796.274,388.596 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon192"
-     points="217.473,701.909 217.473,732.438 217.473,732.438 217.473,701.909 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon194"
-     points="184.350,1024.000 162.661,1024.000 162.661,1024.000 184.350,1024.000 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon196"
-     points="1024.000,632.826 1024.000,669.460 1024.000,669.460 1024.000,632.826 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon198"
-     points="199.399,1013.301 199.399,976.667 199.399,976.667 199.399,1013.301 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon200"
-     points="162.661,1024.000 162.661,993.471 162.661,993.471 162.661,1024.000 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon202"
-     points="505.291,632.826 505.291,669.460 505.290,669.460 505.290,632.826 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon204"
-     points="199.399,1013.301 217.473,1013.301 217.473,1013.301 199.399,1013.301 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon206"
-     points="184.350,993.471 184.350,1024.000 184.350,1024.000 184.350,993.471 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon208"
-     points="494.446,632.826 494.446,669.460 494.446,669.460 494.446,632.826 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon210"
-     points="217.473,976.667 199.399,976.667 199.399,976.667 217.473,976.667 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon212"
-     points="162.661,486.695 162.661,468.377 162.661,468.377 162.661,486.695 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon214"
-     points="221.536,632.826 221.536,669.460 221.536,669.460 221.536,632.826 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon216"
-     points="792.210,1013.301 792.210,976.667 792.210,976.667 792.210,1013.301 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon218"
-     points="184.350,486.695 162.661,486.695 162.661,486.695 184.350,486.695 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon220"
-     points="778.200,632.826 778.200,669.460 778.200,669.460 778.200,632.826 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon222"
-     points="774.137,1013.301 792.210,1013.301 792.210,1013.301 774.137,1013.301 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon224"
-     points="0.000,468.377 0.000,486.695 0.000,486.695 0.000,468.377 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon226"
-     points="796.274,632.826 796.274,669.460 796.274,669.460 796.274,632.826 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon228"
-     points="792.210,976.667 774.137,976.667 774.137,976.667 792.210,976.667 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon230"
-     points="184.350,468.377 184.350,429.300 184.350,429.300 184.350,468.377 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon232"
-     points="796.274,632.826 778.200,632.826 778.200,632.826 796.274,632.826 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon234"
-     points="212.100,274.758 212.100,140.431 212.100,140.431 212.100,274.758 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon236"
-     points="184.350,468.377 162.661,468.377 162.661,468.377 184.350,468.377 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon238"
-     points="423.960,632.826 279.372,632.826 279.372,632.826 423.960,632.826 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon240"
-     points="212.100,140.431 212.100,30.528 212.100,30.528 212.100,140.431 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon242"
-     points="184.350,617.358 184.350,486.695 184.350,486.695 184.350,617.358 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon244"
-     points="221.536,632.826 203.463,632.826 203.463,632.826 221.536,632.826 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon246"
-     points="230.173,311.392 230.173,274.758 230.173,274.758 230.173,311.392 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon248"
-     points="0.000,486.695 0.000,617.358 0.000,617.358 0.000,486.695 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon250"
-     points="505.291,632.826 494.446,632.826 494.446,632.826 505.290,632.826 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon252"
-     points="212.100,30.528 230.173,30.528 230.173,30.528 212.100,30.528 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon254"
-     points="18.073,266.888 18.073,285.205 18.073,285.205 18.073,266.888 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon256"
-     points="720.365,632.826 575.777,632.826 575.777,632.826 720.365,632.826 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon258"
-     points="212.100,274.758 230.173,274.758 230.173,274.758 212.100,274.758 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon260"
-     points="184.350,266.888 184.350,241.244 184.350,241.244 184.350,266.888 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon262"
-     points="796.274,669.460 904.715,669.460 904.715,669.460 796.274,669.460 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon264"
-     points="288.009,311.392 230.173,311.392 230.173,311.392 288.009,311.392 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon266"
-     points="184.350,266.888 162.661,266.888 162.661,266.888 184.350,266.888 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon268"
-     points="1013.156,388.596 1013.156,632.826 1013.156,632.826 1013.156,388.596 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon270"
-     points="288.009,30.528 360.303,30.528 360.303,30.528 288.009,30.528 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon272"
-     points="162.661,285.205 162.661,266.888 162.661,266.888 162.661,285.205 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon274"
-     points="904.715,669.460 1013.156,669.460 1013.156,669.460 904.715,669.460 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon276"
-     points="360.303,311.392 288.009,311.392 288.009,311.392 360.303,311.392 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon278"
-     points="18.073,285.205 18.073,429.300 18.073,429.300 18.073,285.205 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon280"
-     points="904.715,388.596 796.274,388.596 796.274,388.596 904.715,388.596 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon282"
-     points="439.826,311.392 439.826,274.758 439.826,274.758 439.826,311.392 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon284"
-     points="184.350,285.205 162.661,285.205 162.661,285.205 184.350,285.205 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon286"
-     points="575.777,358.067 505.291,358.067 505.290,358.067 575.777,358.067 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon288"
-     points="439.826,311.392 360.303,311.392 360.303,311.392 439.826,311.392 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon290"
-     points="774.137,1013.301 745.219,1013.301 745.219,1013.301 774.137,1013.301 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon292"
-     points="494.446,358.067 423.960,358.067 423.960,358.067 494.446,358.067 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon294"
-     points="450.670,311.392 450.670,274.758 450.670,274.758 450.670,311.392 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon296"
-     points="745.219,1013.301 672.925,1013.301 672.925,1013.301 745.219,1013.301 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon298"
-     points="279.372,358.067 221.536,358.067 221.536,358.067 279.372,358.067 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon300"
-     points="439.826,30.528 450.670,30.528 450.670,30.528 439.826,30.528 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon302"
-     points="672.925,732.437 745.219,732.437 745.219,732.437 672.925,732.437 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon304"
-     points="778.200,358.067 720.365,358.067 720.365,358.067 778.200,358.067 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon306"
-     points="439.826,274.758 450.670,274.758 450.670,274.758 439.826,274.758 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon308"
-     points="672.925,1013.301 644.008,1013.301 644.008,1013.301 672.925,1013.301 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon310"
-     points="1013.156,358.067 904.715,358.067 904.715,358.067 1013.156,358.067 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon312"
-     points="501.276,311.392 450.670,311.392 450.670,311.392 501.276,311.392 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon314"
-     points="644.008,1013.301 571.714,1013.301 571.714,1013.301 644.008,1013.301 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon316"
-     points="1013.156,388.596 1013.156,358.067 1013.156,358.067 1013.156,388.596 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon318"
-     points="501.276,30.528 573.570,30.528 573.570,30.528 501.276,30.528 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon320"
-     points="528.337,1013.301 528.337,976.667 528.337,976.667 528.337,1013.301 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon322"
-     points="904.715,358.067 904.715,388.596 904.715,388.596 904.715,358.067 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon324"
-     points="573.570,311.392 501.276,311.392 501.276,311.392 573.570,311.392 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon326"
-     points="571.714,1013.301 528.337,1013.301 528.337,1013.301 571.714,1013.301 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon328"
-     points="279.372,388.596 279.372,358.067 279.372,358.067 279.372,388.596 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-  <polygon
-     id="polygon330"
-     points="638.635,311.392 573.570,311.392 573.570,311.392 638.635,311.392 "
-     fill-opacity="0.25"
-     fill="grey"
-     stroke-width="1"
-     stroke="black" />
-</svg>
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1009
+  9
+$EXTMIN
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMAX
+ 10
+1000.0
+ 20
+1000.0
+ 30
+0.0
+  9
+$FILLMODE
+ 70
+ 0
+  9
+$SPLFRAME
+ 70
+ 1
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LAYER
+ 70
+1
+  0
+LAYER
+  2
+0
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.39057
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.39057
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.39057
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.30767
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.30767
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.30767
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.39057
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.50353
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.39057
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.99767
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.99767
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.99767
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.39057
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+3.82796
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.39057
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.26346
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.26346
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.26346
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.39057
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+3.82796
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.39057
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.1505
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.1505
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.1505
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.06392
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.06392
+ 20
+1.93511
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.06392
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+4.41624
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.41624
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.41624
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.26535
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.26535
+ 20
+1.93511
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.26535
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.10622
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.10622
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.10622
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+6.70844
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+6.70844
+ 20
+1.93511
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+6.70844
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+7.50379
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.50379
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.50379
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.95535
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.95535
+ 20
+1.93511
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.95535
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+10.5537
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+10.6667
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+10.5537
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.50353
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.50353
+ 20
+1.93511
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.50353
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+10.3415
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+10.3415
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+10.3415
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.39057
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.39057
+ 20
+1.93511
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.39057
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+0.325196
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+0.325196
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+0.325196
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+6.70844
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.95535
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+6.70844
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+4.33171
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+2.32844
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+4.33171
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.06392
+ 20
+1.93511
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.06392
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.06392
+ 20
+1.93511
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+8.33822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+8.06506
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+8.33822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.26535
+ 20
+1.93511
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.26535
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.26535
+ 20
+1.93511
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+10.3415
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+8.33822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+10.3415
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+6.70844
+ 20
+1.93511
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+6.70844
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+6.70844
+ 20
+1.93511
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+2.32844
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+0.325196
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+2.32844
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.11942
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.11942
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.11942
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.95535
+ 20
+1.93511
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.95535
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.95535
+ 20
+1.93511
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+6.33496
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+5.91868
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+6.33496
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.99767
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.50379
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.99767
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.50353
+ 20
+1.93511
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.39057
+ 20
+1.93511
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.50353
+ 20
+1.93511
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+4.33171
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+4.33171
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+4.33171
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.99767
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.99767
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.99767
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+3.82796
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.26535
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+3.82796
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+6.33496
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+6.33496
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+6.33496
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.26346
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.99767
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.26346
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+7.76269
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.06392
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.76269
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+0.325196
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+0.325196
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+0.325196
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+7.50379
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.50379
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.50379
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+6.70844
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.00965
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+6.70844
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+2.32844
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+2.32844
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+2.32844
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+10.6667
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+10.5537
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+10.6667
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.50353
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.95535
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.50353
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+8.33822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+8.33822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+8.33822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.26346
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.1505
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.26346
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+3.82796
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.26535
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+3.82796
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+10.3415
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+10.3415
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+10.3415
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+4.41624
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.1505
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.41624
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+7.00965
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.00965
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.00965
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+0.325196
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+2.32844
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+0.325196
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.30767
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.9101
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.30767
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+6.70844
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+6.70844
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+6.70844
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+8.33822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+10.3415
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+8.33822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+4.41624
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.41624
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.41624
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.06392
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.06392
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.06392
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+6.33496
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+7.8699
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+6.33496
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.30767
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.11942
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.30767
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+7.76269
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.76269
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.76269
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+2.32844
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+4.33171
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+2.32844
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.9101
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.9101
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.9101
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.95535
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.95535
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.95535
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+10.6667
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+10.6667
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+10.6667
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.9101
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.41624
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.9101
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.50353
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.50353
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.50353
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+10.6667
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+10.3415
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+10.6667
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+7.50379
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.10622
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.50379
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+3.82796
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+3.82796
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+3.82796
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+10.3415
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+10.6667
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+10.3415
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.29454
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.10622
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.29454
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.26535
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.26535
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.26535
+ 20
+3.43104
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+0
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+0
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+0
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+10.6667
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+10.6667
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+10.6667
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.0771
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.0771
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.0771
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+0
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+0.325196
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+0
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.26346
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.26346
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.26346
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.0771
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.26535
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.0771
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+0.325196
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+0
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+0.325196
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.1505
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.1505
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.1505
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.26535
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.0771
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.26535
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+5.72358
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+5.91868
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+5.72358
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.30767
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.30767
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.30767
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.25217
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.25217
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.25217
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+5.72358
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+5.72358
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+5.72358
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.10622
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.10622
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.10622
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.06392
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.25217
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.06392
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+5.91868
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+5.72358
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+5.91868
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.29454
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.29454
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.29454
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.25217
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.06392
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.25217
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+5.91868
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+6.33496
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+5.91868
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.29454
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.10622
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.29454
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+5.91868
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+5.91868
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+5.91868
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+4.41624
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.9101
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.41624
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+4.33171
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+5.72358
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+4.33171
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.30767
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.11942
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.30767
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+5.72358
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+4.33171
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0
+ 20
+5.72358
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.26346
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.1505
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.26346
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+8.06506
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+7.8699
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+8.06506
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+7.50379
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.99767
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.50379
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+8.06506
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+8.33822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+8.06506
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.29454
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+9.4241
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.29454
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+8.06506
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+8.06506
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+8.06506
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+10.5537
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+10.5537
+ 20
+4.16694
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+10.5537
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+7.8699
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+8.06506
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+7.8699
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+9.4241
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+10.5537
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+9.4241
+ 20
+3.77669
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+7.8699
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+6.33496
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+0.18826
+ 20
+7.8699
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+9.4241
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.29454
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+9.4241
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+7.8699
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.69439
+ 20
+7.8699
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+1.92031
+ 20
+7.8699
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.99767
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.26346
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.99767
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.06392
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.76269
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.06392
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.1505
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.41624
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.1505
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+7.76269
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.00965
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.76269
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.9101
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.30767
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.9101
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+7.00965
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.76269
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.00965
+ 20
+3.10585
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.10622
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.50379
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.10622
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+7.00965
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+6.70844
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.00965
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+10.5537
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+9.4241
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+10.5537
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+6.70844
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.95535
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+6.70844
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+10.5537
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+10.5537
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+10.5537
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.50353
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.50353
+ 20
+0.504232
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.50353
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+9.4241
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+9.4241
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+9.4241
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.95535
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.50353
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.95535
+ 20
+0.113987
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.9101
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.9101
+ 20
+7.09375
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.9101
+ 20
+6.76856
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.02556
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.02556
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.02556
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.80404
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.05094
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.80404
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+7.61139
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.61139
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.61139
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.05094
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.80404
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.05094
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.05094
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.05094
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.05094
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.80404
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.05094
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.80404
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+4.52382
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.52382
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.52382
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.05094
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.80404
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.05094
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.82943
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.82943
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.82943
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+6.48178
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+6.48178
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+6.48178
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.22694
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.22694
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.22694
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+6.48178
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.80404
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+6.48178
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+7.61139
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.61139
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.61139
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.03868
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.03868
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.03868
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+7.61139
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+6.48178
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.61139
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.03868
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.03868
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.03868
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+6.48178
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.61139
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+6.48178
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.22694
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.22694
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.22694
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+7.61139
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+6.48178
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.61139
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.03868
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.22694
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.03868
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+6.48178
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.61139
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+6.48178
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.03868
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.22694
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.03868
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.02556
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.02556
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.02556
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.82943
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.82943
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.82943
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.02556
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.61139
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.02556
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.82943
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.22694
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.82943
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.21382
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.21382
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.21382
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+3.58247
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+3.58247
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+3.58247
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.21382
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.21382
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.21382
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+3.58247
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.82943
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+3.58247
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.02556
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.21382
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.02556
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.82943
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+3.58247
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.82943
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+8.02556
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.21382
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.02556
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+3.58247
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.82943
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+3.58247
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.22694
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.82943
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.22694
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+2.82943
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+3.58247
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+2.82943
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+3.58247
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.41086
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+3.58247
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+4.41086
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.41086
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.41086
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+4.52382
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.05094
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.52382
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+4.41086
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+3.58247
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.41086
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.80404
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+6.48178
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.80404
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+4.52382
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.52382
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.52382
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+7.61139
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+8.02556
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+7.61139
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+4.41086
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.52382
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.41086
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+6.48178
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+6.48178
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+6.48178
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+4.41086
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.52382
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.41086
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.80404
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.80404
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.80404
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.05094
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.05094
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.05094
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+4.41086
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.41086
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.41086
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.05094
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+4.52382
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.05094
+ 20
+7.31799
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+3.58247
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+3.58247
+ 20
+10.3098
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+3.58247
+ 20
+10.635
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+POLYLINE
+  8
+0
+ 62
+     0
+ 66
+     1
+ 10
+0
+ 20
+0
+ 30
+0.0
+ 70
+     1
+ 40
+0.75
+ 41
+0.75
+  0
+VERTEX
+  8
+0
+ 10
+5.80404
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.80404
+ 20
+9.13911
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+VERTEX
+  8
+0
+ 10
+5.80404
+ 20
+7.70822
+ 30
+0.0
+ 40
+0.0104167
+ 41
+0.0104167
+  0
+SEQEND
+ 8
+0
+  0
+ENDSEC
+  0
+EOF
