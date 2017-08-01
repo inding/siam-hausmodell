@@ -1,3 +1,6 @@
 # Todo
 
-* Gravierte Fenster sollen nur als Umrisse graviert werden, nicht als Fläche
+* Animation
+* Optional: Ausführlichere Beschreibung des Projekts
+* Uwe als GitHub Contributor eintragen
+
